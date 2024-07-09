@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Emily Johnson",
+      "emp_num": "E12345",
+      "salary": 60000,
+      "job_type": "Manager"
+    },
+    {
+      "name": "Michael Smith",
+      "emp_num": "E23456",
+      "salary": 55000,
+      "job_type": "Crew Member"
+    },
+    {
+      "name": "Sarah Davis",
+      "emp_num": "E34567",
+      "salary": 62000,
+      "job_type": "Supervisor"
+    },
+    {
+      "name": "Kevin Wilson",
+      "emp_num": "E45678",
+      "salary": 70000,
+      "job_type": "Manager"
+    },
+    {
+      "name": "Jessica Martinez",
+      "emp_num": "E56789",
+      "salary": 48000,
+      "job_type": "Crew Member"
+    },
+    {
+      "name": "Brian Clark",
+      "emp_num": "E67890",
+      "salary": 75000,
+      "job_type": "Supervisor"
+    },
+    {
+      "name": "Emma Lee",
+      "emp_num": "E78901",
+      "salary": 58000,
+      "job_type": "Crew Member"
+    },
+    {
+      "name": "Jacob Thompson",
+      "emp_num": "E89012",
+      "salary": 68000,
+      "job_type": "Manager"
+    },
+    {
+      "name": "Olivia White",
+      "emp_num": "E90123",
+      "salary": 59000,
+      "job_type": "Crew Member"
+    },
+    {
+      "name": "Daniel Harris",
+      "emp_num": "E01234",
+      "salary": 72000,
+      "job_type": "Supervisor"
+    }
+  ]
+  
